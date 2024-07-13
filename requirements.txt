@@ -12,6 +12,7 @@ customtkinter
 darkdetect
 diffusers
 filelock
+faiss-cpu
 huggingface-hub
 idna
 importlib-metadata
@@ -35,5 +36,6 @@ streamlit
 boto3
 streamlit
 pillow
+pypdf
 google-generativeai
 python-dotenv
