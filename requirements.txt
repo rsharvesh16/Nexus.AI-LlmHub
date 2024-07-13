@@ -39,3 +39,7 @@ pillow
 pypdf
 google-generativeai
 python-dotenv
+llama-index
+nltk
+sqlalchemy
+psycopg2

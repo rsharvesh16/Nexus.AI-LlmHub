@@ -3,3 +3,4 @@ venv/
 __pycache__
 data/
 faiss_index/
+venv2/
